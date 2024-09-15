@@ -16,10 +16,6 @@ const profile = {
   },
 };
 
-//let profile1 = Object.values(profile)
-
-//console.log (`${profile1.slice(0,1)} has ${profile1.slice(1,2)} active hours!`)
-
 console.log(`${profile.username} has ${profile.playTime} active hours!`);  
 
 
